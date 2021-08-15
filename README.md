@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eu-phol
-- 👀 I’m interested in Economic/ Analist of data
+- 👀 I’m interested in Economic/ data analysis
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on wherever possible
 - 📫 How to reach me paulollopes00@gmail.com
